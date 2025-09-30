@@ -20,9 +20,9 @@ Criar uma aplicação distribuída simples com dois componentes:
 
 A comunicação entre cliente e servidor segue um protocolo simples baseado em strings separadas por ponto e vírgula:
 
-### 📥 Consulta
+## 📥 Consulta
 
-```text
+``text
 C;[VOO];[ASSENTO];
 
 https://github.com/IgorMirandolli/socket_controle_passagem_servidor.git
